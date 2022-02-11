@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Factory_1._1.Factory">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAQAAAAAGAAUIAAKEAAAAAAAAAAIAAEEAAAA=</HashCode>
+      <FileName>Factory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Factory_1._1.Load">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgEEAAAQ=</HashCode>
+      <FileName>Load.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Factory_1._1.Make">
+    <Position X="11.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAEAAAgAAAAAAAAAAAAAAAAAEEAAAQ=</HashCode>
+      <FileName>Make.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Factory_1._1.Program">
+    <Position X="7.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Factory_1._1.Sale">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACCAAAAAQAAAAAAAAAAAAAEAAAAAAAAAAAAQEEAAAA=</HashCode>
+      <FileName>Sale.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Factory_1._1.Form1">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EgBAEABAYCAAAFAAAIDCAAADQKAAAAAAIAQAAAAIAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

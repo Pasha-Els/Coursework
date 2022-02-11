@@ -1,0 +1,24 @@
+C:\Users\zuza5\Desktop\Factory 1.1\Factory 1.1\obj\x86\Debug\Factory_1._1.Form1.resources
+C:\Users\zuza5\Desktop\Factory 1.1\Factory 1.1\obj\x86\Debug\Factory_1._1.Properties.Resources.resources
+C:\Users\zuza5\Desktop\Factory 1.1\Factory 1.1\obj\x86\Debug\Factory 1.1.csproj.GenerateResource.Cache
+C:\Users\zuza5\Desktop\Factory 1.1\Factory 1.1\bin\Debug\Factory 1.1.exe
+C:\Users\zuza5\Desktop\Factory 1.1\Factory 1.1\bin\Debug\Factory 1.1.pdb
+C:\Users\zuza5\Desktop\Factory 1.1\Factory 1.1\obj\x86\Debug\Factory 1.1.exe
+C:\Users\zuza5\Desktop\Factory 1.1\Factory 1.1\obj\x86\Debug\Factory 1.1.pdb
+C:\Users\zuza5\Desktop\Factory 1.1\Factory 1.1\obj\x86\Debug\Factory 1.1.csprojResolveAssemblyReference.cache
+D:\Учёба\2 курс\ООП\Factory 1.1\Factory 1.1\obj\x86\Debug\Factory 1.1.exe
+D:\Учёба\2 курс\ООП\Factory 1.1\Factory 1.1\obj\x86\Debug\Factory 1.1.pdb
+D:\Учёба\2 курс\ООП\Factory 1.1\Factory 1.1\bin\Debug\Factory 1.1.exe
+D:\Учёба\2 курс\ООП\Factory 1.1\Factory 1.1\bin\Debug\Factory 1.1.pdb
+D:\Учёба\2 курс\ООП\Factory 1.1\Factory 1.1\obj\x86\Debug\Factory 1.1.csprojResolveAssemblyReference.cache
+D:\Учёба\2 курс\ООП\Factory 1.1\Factory 1.1\obj\x86\Debug\Factory_1._1.Form1.resources
+D:\Учёба\2 курс\ООП\Factory 1.1\Factory 1.1\obj\x86\Debug\Factory_1._1.Properties.Resources.resources
+D:\Учёба\2 курс\ООП\Factory 1.1\Factory 1.1\obj\x86\Debug\Factory 1.1.csproj.GenerateResource.Cache
+C:\Hlam\Folder\Учёба\2 курс\ООП\Factory 1.1\Factory 1.1\obj\x86\Debug\Factory 1.1.exe
+C:\Hlam\Folder\Учёба\2 курс\ООП\Factory 1.1\Factory 1.1\obj\x86\Debug\Factory 1.1.pdb
+C:\Hlam\Folder\Учёба\2 курс\ООП\Factory 1.1\Factory 1.1\bin\Debug\Factory 1.1.exe
+C:\Hlam\Folder\Учёба\2 курс\ООП\Factory 1.1\Factory 1.1\bin\Debug\Factory 1.1.pdb
+C:\Hlam\Folder\Учёба\2 курс\ООП\Factory 1.1\Factory 1.1\obj\x86\Debug\Factory 1.1.csprojResolveAssemblyReference.cache
+C:\Hlam\Folder\Учёба\2 курс\ООП\Factory 1.1\Factory 1.1\obj\x86\Debug\Factory_1._1.Form1.resources
+C:\Hlam\Folder\Учёба\2 курс\ООП\Factory 1.1\Factory 1.1\obj\x86\Debug\Factory_1._1.Properties.Resources.resources
+C:\Hlam\Folder\Учёба\2 курс\ООП\Factory 1.1\Factory 1.1\obj\x86\Debug\Factory 1.1.csproj.GenerateResource.Cache
