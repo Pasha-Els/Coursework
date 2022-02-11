@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Курсач ПСП", "Курсач ПСП\Курсач ПСП.csproj", "{BB8AB59F-45A4-4498-BD8C-9DDCEB2D0858}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB8AB59F-45A4-4498-BD8C-9DDCEB2D0858}.Debug|x86.ActiveCfg = Debug|x86
+		{BB8AB59F-45A4-4498-BD8C-9DDCEB2D0858}.Debug|x86.Build.0 = Debug|x86
+		{BB8AB59F-45A4-4498-BD8C-9DDCEB2D0858}.Release|x86.ActiveCfg = Release|x86
+		{BB8AB59F-45A4-4498-BD8C-9DDCEB2D0858}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

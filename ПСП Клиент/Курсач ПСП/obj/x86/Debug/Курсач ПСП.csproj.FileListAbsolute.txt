@@ -1,0 +1,20 @@
+C:\Users\zuza5\Desktop\Курсач ПСП\Курсач ПСП\bin\Debug\Курсач ПСП.exe
+C:\Users\zuza5\Desktop\Курсач ПСП\Курсач ПСП\bin\Debug\Курсач ПСП.pdb
+C:\Users\zuza5\Desktop\Курсач ПСП\Курсач ПСП\obj\x86\Debug\Курсач_ПСП.Form1.resources
+C:\Users\zuza5\Desktop\Курсач ПСП\Курсач ПСП\obj\x86\Debug\Курсач_ПСП.Properties.Resources.resources
+C:\Users\zuza5\Desktop\Курсач ПСП\Курсач ПСП\obj\x86\Debug\Курсач ПСП.csproj.GenerateResource.Cache
+C:\Users\zuza5\Desktop\Курсач ПСП\Курсач ПСП\obj\x86\Debug\Курсач ПСП.exe
+C:\Users\zuza5\Desktop\Курсач ПСП\Курсач ПСП\obj\x86\Debug\Курсач ПСП.pdb
+C:\Users\zuza5\Desktop\Курсач ПСП\Курсач ПСП\obj\x86\Debug\Курсач_ПСП.Form2.resources
+C:\Users\zuza5\Desktop\Курсач ПСП\Курсач ПСП\bin\Debug\Курсач ПСП.exe.config
+C:\Users\zuza5\Desktop\Курсач ПСП\Курсач ПСП\obj\x86\Debug\Курсач_ПСП.Form3.resources
+C:\Hlam\Folder\Учёба\3 курс\Раб стол(лень разбираться)\Курсач ПСП\Курсач ПСП\bin\Debug\Курсач ПСП.exe.config
+C:\Hlam\Folder\Учёба\3 курс\Раб стол(лень разбираться)\Курсач ПСП\Курсач ПСП\obj\x86\Debug\Курсач ПСП.exe
+C:\Hlam\Folder\Учёба\3 курс\Раб стол(лень разбираться)\Курсач ПСП\Курсач ПСП\obj\x86\Debug\Курсач ПСП.pdb
+C:\Hlam\Folder\Учёба\3 курс\Раб стол(лень разбираться)\Курсач ПСП\Курсач ПСП\bin\Debug\Курсач ПСП.exe
+C:\Hlam\Folder\Учёба\3 курс\Раб стол(лень разбираться)\Курсач ПСП\Курсач ПСП\bin\Debug\Курсач ПСП.pdb
+C:\Hlam\Folder\Учёба\3 курс\Раб стол(лень разбираться)\Курсач ПСП\Курсач ПСП\obj\x86\Debug\Курсач_ПСП.Form1.resources
+C:\Hlam\Folder\Учёба\3 курс\Раб стол(лень разбираться)\Курсач ПСП\Курсач ПСП\obj\x86\Debug\Курсач_ПСП.Form2.resources
+C:\Hlam\Folder\Учёба\3 курс\Раб стол(лень разбираться)\Курсач ПСП\Курсач ПСП\obj\x86\Debug\Курсач_ПСП.Form3.resources
+C:\Hlam\Folder\Учёба\3 курс\Раб стол(лень разбираться)\Курсач ПСП\Курсач ПСП\obj\x86\Debug\Курсач_ПСП.Properties.Resources.resources
+C:\Hlam\Folder\Учёба\3 курс\Раб стол(лень разбираться)\Курсач ПСП\Курсач ПСП\obj\x86\Debug\Курсач ПСП.csproj.GenerateResource.Cache
