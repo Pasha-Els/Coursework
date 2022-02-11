@@ -1,0 +1,43 @@
+C:\Users\Pavel\Desktop\Курсовая 2.0\Курсовая 2.0\bin\Debug\Курсовая 2.0.exe
+C:\Users\Pavel\Desktop\Курсовая 2.0\Курсовая 2.0\bin\Debug\Курсовая 2.0.pdb
+C:\Users\Pavel\Desktop\Курсовая 2.0\Курсовая 2.0\obj\x86\Debug\Курсовая_2._0.Form1.resources
+C:\Users\Pavel\Desktop\Курсовая 2.0\Курсовая 2.0\obj\x86\Debug\Курсовая_2._0.Properties.Resources.resources
+C:\Users\Pavel\Desktop\Курсовая 2.0\Курсовая 2.0\obj\x86\Debug\Курсовая 2.0.csproj.GenerateResource.Cache
+C:\Users\Pavel\Desktop\Курсовая 2.0\Курсовая 2.0\obj\x86\Debug\Курсовая 2.0.exe
+C:\Users\Pavel\Desktop\Курсовая 2.0\Курсовая 2.0\obj\x86\Debug\Курсовая 2.0.pdb
+C:\Users\Pavel\Desktop\Курсовая 2.0\Курсовая 2.0\bin\Debug\bd.accdb
+C:\Users\Pavel\Desktop\Курсовая 2.0\Курсовая 2.0\bin\Debug\Курсовая 2.0.exe.config
+C:\Users\Pavel\Desktop\Курсовая 2.0\Курсовая 2.0\obj\x86\Debug\Курсовая 2.0.csprojResolveAssemblyReference.cache
+C:\Учёба\1 курс\2 семестр\Курсовая 2.0\Курсовая 2.0\bin\Debug\Курсовая 2.0.exe.config
+C:\Учёба\1 курс\2 семестр\Курсовая 2.0\Курсовая 2.0\obj\x86\Debug\Курсовая 2.0.exe
+C:\Учёба\1 курс\2 семестр\Курсовая 2.0\Курсовая 2.0\obj\x86\Debug\Курсовая 2.0.pdb
+C:\Учёба\1 курс\2 семестр\Курсовая 2.0\Курсовая 2.0\bin\Debug\bd.accdb
+C:\Учёба\1 курс\2 семестр\Курсовая 2.0\Курсовая 2.0\bin\Debug\Курсовая 2.0.exe
+C:\Учёба\1 курс\2 семестр\Курсовая 2.0\Курсовая 2.0\bin\Debug\Курсовая 2.0.pdb
+C:\Учёба\1 курс\2 семестр\Курсовая 2.0\Курсовая 2.0\obj\x86\Debug\Курсовая 2.0.csprojResolveAssemblyReference.cache
+C:\Учёба\1 курс\2 семестр\Курсовая 2.0\Курсовая 2.0\obj\x86\Debug\Курсовая_2._0.Form1.resources
+C:\Учёба\1 курс\2 семестр\Курсовая 2.0\Курсовая 2.0\obj\x86\Debug\Курсовая_2._0.Properties.Resources.resources
+C:\Учёба\1 курс\2 семестр\Курсовая 2.0\Курсовая 2.0\obj\x86\Debug\Курсовая 2.0.csproj.GenerateResource.Cache
+G:\Учёба\1 курс\2 семестр\Курсовая 2.0\Курсовая 2.0\bin\Debug\Курсовая 2.0.exe.config
+G:\Учёба\1 курс\2 семестр\Курсовая 2.0\Курсовая 2.0\obj\x86\Debug\Курсовая 2.0.exe
+G:\Учёба\1 курс\2 семестр\Курсовая 2.0\Курсовая 2.0\obj\x86\Debug\Курсовая 2.0.pdb
+G:\Учёба\1 курс\2 семестр\Курсовая 2.0\Курсовая 2.0\bin\Debug\bd.accdb
+G:\Учёба\1 курс\2 семестр\Курсовая 2.0\Курсовая 2.0\bin\Debug\Курсовая 2.0.exe
+G:\Учёба\1 курс\2 семестр\Курсовая 2.0\Курсовая 2.0\bin\Debug\Курсовая 2.0.pdb
+G:\Учёба\1 курс\2 семестр\Курсовая 2.0\Курсовая 2.0\obj\x86\Debug\Курсовая 2.0.csprojResolveAssemblyReference.cache
+G:\Учёба\1 курс\2 семестр\Курсовая 2.0\Курсовая 2.0\obj\x86\Debug\Курсовая_2._0.Form1.resources
+G:\Учёба\1 курс\2 семестр\Курсовая 2.0\Курсовая 2.0\obj\x86\Debug\Курсовая_2._0.Properties.Resources.resources
+G:\Учёба\1 курс\2 семестр\Курсовая 2.0\Курсовая 2.0\obj\x86\Debug\Курсовая 2.0.csproj.GenerateResource.Cache
+C:\Hlam\Folder\Учёба\1 курс\2 семестр\Курсовая 2.0\Курсовая 2.0\bin\Debug\Курсовая 2.0.exe.config
+C:\Hlam\Folder\Учёба\1 курс\2 семестр\Курсовая 2.0\Курсовая 2.0\obj\x86\Debug\Курсовая 2.0.exe
+C:\Hlam\Folder\Учёба\1 курс\2 семестр\Курсовая 2.0\Курсовая 2.0\obj\x86\Debug\Курсовая 2.0.pdb
+C:\Hlam\Folder\Учёба\1 курс\2 семестр\Курсовая 2.0\Курсовая 2.0\bin\Debug\bd.accdb
+C:\Hlam\Folder\Учёба\1 курс\2 семестр\Курсовая 2.0\Курсовая 2.0\bin\Debug\Курсовая 2.0.exe
+C:\Hlam\Folder\Учёба\1 курс\2 семестр\Курсовая 2.0\Курсовая 2.0\bin\Debug\Курсовая 2.0.pdb
+C:\Hlam\Folder\Учёба\1 курс\2 семестр\Курсовая 2.0\Курсовая 2.0\obj\x86\Debug\Курсовая 2.0.csprojResolveAssemblyReference.cache
+C:\Hlam\Folder\Учёба\1 курс\2 семестр\Курсовая 2.0\Курсовая 2.0\obj\x86\Debug\Курсовая_2._0.Form1.resources
+C:\Hlam\Folder\Учёба\1 курс\2 семестр\Курсовая 2.0\Курсовая 2.0\obj\x86\Debug\Курсовая_2._0.Properties.Resources.resources
+C:\Hlam\Folder\Учёба\1 курс\2 семестр\Курсовая 2.0\Курсовая 2.0\obj\x86\Debug\Курсовая 2.0.csproj.GenerateResource.Cache
+C:\Hlam\Курсовые\1 курс 2 сем\Курсовая 2\Курсовая 2.0\bin\Debug\Курсовая 2.0.exe.config
+C:\Hlam\Курсовые\1 курс 2 сем\Курсовая 2\Курсовая 2.0\obj\x86\Debug\Курсовая 2.0.exe
+C:\Hlam\Курсовые\1 курс 2 сем\Курсовая 2\Курсовая 2.0\obj\x86\Debug\Курсовая 2.0.pdb
