@@ -1,0 +1,9 @@
+C:\Users\zuza5\Desktop\Курсач Сервер\Курсач Сервер\bin\Debug\Курсач Сервер.exe
+C:\Users\zuza5\Desktop\Курсач Сервер\Курсач Сервер\bin\Debug\Курсач Сервер.pdb
+C:\Users\zuza5\Desktop\Курсач Сервер\Курсач Сервер\obj\x86\Debug\Курсач Сервер.exe
+C:\Users\zuza5\Desktop\Курсач Сервер\Курсач Сервер\obj\x86\Debug\Курсач Сервер.pdb
+C:\Users\zuza5\Desktop\Курсач Сервер\Курсач Сервер\obj\x86\Debug\Курсач Сервер.csprojResolveAssemblyReference.cache
+C:\Users\zuza5\Desktop\Курсач Сервер\Курсач Сервер\bin\Debug\Курсач Сервер.exe.config
+C:\Hlam\Folder\Учёба\3 курс\Раб стол(лень разбираться)\Курсач Сервер\Курсач Сервер\bin\Debug\Курсач Сервер.exe.config
+C:\Hlam\Folder\Учёба\3 курс\Раб стол(лень разбираться)\Курсач Сервер\Курсач Сервер\obj\x86\Debug\Курсач Сервер.exe
+C:\Hlam\Folder\Учёба\3 курс\Раб стол(лень разбираться)\Курсач Сервер\Курсач Сервер\obj\x86\Debug\Курсач Сервер.pdb
